@@ -12,7 +12,7 @@ You can also include images in this folder and reference them in the markdown. E
 It adds 2 two-bit binary values using 2 combined one-bit adders chained together.
 ## How to test
 
-Explain how to use your project
+Use the truth table and make sure the outputs are accurate with the inputs
 
 ## External hardware
 
