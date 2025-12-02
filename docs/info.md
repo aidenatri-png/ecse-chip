@@ -9,8 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+It adds 2 two-bit binary values using 2 combined one-bit adders chained together.
 ## How to test
 
 Explain how to use your project
